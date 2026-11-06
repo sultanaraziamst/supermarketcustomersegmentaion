@@ -1,0 +1,6 @@
+cluster,customers,total_revenue,recency,frequency,monetary,avg_basket_value,avg_items_per_basket,unique_products,tenure_days,return_rate,r_score,f_score,m_score,segment,pct_customers,pct_revenue,recommended_action
+3,353,616145.66,17.9,22.5,1745.46,71.43,29.05,53.14,299.4,0.01,4.27,4.65,4.62,Champions,23.5,53.1,"Reward them: early access, loyalty tier upgrades, referral programme. Don't discount - they already buy."
+4,62,313575.23,55.34,6.9,5057.66,732.67,373.92,50.08,280.39,0.01,3.39,3.0,5.0,Big Spenders,4.1,27.0,"Offer bulk-buy pricing, delivery subscriptions and a dedicated account contact."
+1,462,202738.11,134.93,9.8,438.83,44.57,18.36,36.96,296.98,0.01,2.21,3.51,3.44,At Risk,30.8,17.5,"Win-back now: personalised 'we miss you' offer based on past favourites, survey on churn reasons."
+2,345,13962.24,213.63,1.61,40.47,25.74,10.64,9.25,237.7,0.0,1.46,1.44,1.51,Hibernating,23.0,1.2,"Low-cost reactivation (email/SMS), clearance offers; suppress from paid channels if unresponsive."
+0,278,13791.02,14.79,1.7,49.61,29.28,11.91,10.85,25.19,0.0,4.37,1.5,1.62,New Customers,18.5,1.2,"Welcome journey: 2nd-purchase coupon within 14 days, product education, collect preferences."

@@ -1,0 +1,12 @@
+{
+  "revenue": 1160212.26,
+  "customers": 1500,
+  "invoices": 13927,
+  "products": 71,
+  "units": 507969,
+  "avg_order_value": 83.31,
+  "return_value": 6765.44,
+  "return_pct": 0.58,
+  "start": "2024-01-01",
+  "end": "2024-12-30"
+}

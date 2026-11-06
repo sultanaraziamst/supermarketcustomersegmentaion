@@ -1,0 +1,4 @@
+algorithm,k,silhouette,smallest_cluster,largest_cluster,n_clusters_found
+KMeans,5,0.6537268295713785,62,462,5
+BisectingKMeans,5,0.5568732802499522,307,660,3
+GaussianMixture,5,0.36672890998721375,62,424,5

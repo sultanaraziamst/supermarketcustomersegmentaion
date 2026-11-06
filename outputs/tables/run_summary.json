@@ -1,0 +1,7 @@
+{
+  "chosen_k":5,
+  "best_k_silhouette":5,
+  "snapshot_date":"2024-12-31",
+  "pca_explained_variance":0.881758822,
+  "top20_revenue_share":73.7
+}

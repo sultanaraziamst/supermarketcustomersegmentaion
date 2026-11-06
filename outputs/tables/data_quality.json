@@ -1,0 +1,11 @@
+{
+  "raw_rows": 174466,
+  "after_dedup": 173600,
+  "duplicates_removed": 866,
+  "null_customer_rows": 2504,
+  "null_description_rows": 349,
+  "return_rows": 930,
+  "sales_rows": 169124,
+  "invalid_rows_removed": 1042,
+  "retention_pct": 96.94
+}
